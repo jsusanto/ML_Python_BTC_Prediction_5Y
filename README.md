@@ -162,8 +162,8 @@ plt.show()
 * Blue = actual, Red = forecast.
 
 # Summary
-LSTM:	Learns patterns in time-series data
-MinMaxScaler:	Normalizes prices for better training
-Dropout:	Prevents overfitting
-Sequential Forecasting:	Predicts one month at a time for 5 years
-Plotting:	Visualizes historical and future prices
+* LSTM:	Learns patterns in time-series data
+* MinMaxScaler:	Normalizes prices for better training
+* Dropout:	Prevents overfitting
+* Sequential Forecasting:	Predicts one month at a time for 5 years
+* Plotting:	Visualizes historical and future prices
